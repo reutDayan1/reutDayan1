@@ -12,6 +12,7 @@
 -🚀 What I’m Currently Learning
     Exploring Django for web development.
     Advancing my skills in genetic algorithms and AI.
+
 -💼 LinkedIn: Reut Dayan
 
 
