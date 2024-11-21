@@ -13,7 +13,7 @@
     Exploring Django for web development.
     Advancing my skills in genetic algorithms and AI.
 
--💼 LinkedIn: Reut Dayan
+-💼 LinkedIn: [Reut Dayan](https://www.linkedin.com/in/reut-dayan-7301b2296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 <!---
