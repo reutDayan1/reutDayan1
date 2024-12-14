@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Reut Dayan, a passionate Computer Science student with a knack for solving problems, learning new technologies, and creating innovative solutions.
 - 🖥️ Programming Skills:
-    Proficient in C, C++, C#, Java, Python, SQL, HTML, CSS, JavaScript, React, NodeJS.
+    Proficient in C, C++, C#, Java, Python, SQL, HTML,JavaScript.
     Experienced in AI, algorithms, web systems development, and database management.
 
 - 🎯 Key Strengths:
